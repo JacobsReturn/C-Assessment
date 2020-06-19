@@ -1,0 +1,5 @@
+﻿  Search.cpp
+  Table.cpp
+C:\Users\s200503\Desktop\C++ Test 2\C++ Test 2\Table.cpp(30,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating Code...
+  C++ Test 2.vcxproj -> C:\Users\s200503\Desktop\C++ Test 2\Debug\C++ Test 2.exe
