@@ -1,0 +1,17 @@
+﻿  Add.cpp
+  C++ Test 2.cpp
+C:\Users\JacobCooper\Desktop\Player database\C++ Test 2\C++ Test 2.cpp(77,22): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Commands.cpp
+  Load.cpp
+  Players.cpp
+  Remove.cpp
+  Save.cpp
+  Search.cpp
+  Table.cpp
+C:\Users\JacobCooper\Desktop\Player database\C++ Test 2\Table.cpp(30,51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  View.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 209 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  C++ Test 2.vcxproj -> C:\Users\JacobCooper\Desktop\Player database\x64\Release\Player database.exe

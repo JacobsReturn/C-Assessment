@@ -1,0 +1,3 @@
+﻿  Table.cpp
+C:\Users\JacobCooper\Desktop\Player database\C++ Test 2\Table.cpp(30,51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C++ Test 2.vcxproj -> C:\Users\JacobCooper\Desktop\Player database\x64\Debug\Player database.exe
